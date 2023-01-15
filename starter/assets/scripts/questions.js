@@ -20,13 +20,3 @@ let questions = [
         correctAnswer: 3,
     },
 ]
-let choicesE1 = document.querySelector("#choices")
-
-let currentQuestion = 0;
-// give data-index to choices button so when button is clicked we can see what index it is
-
-choicesE1.addEventListener("click", function(){
-    
-
-
-})
